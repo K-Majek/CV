@@ -1,0 +1,1 @@
+If you want a print version of cv, use the PDF document, other than that, check the HTML version.
